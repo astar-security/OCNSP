@@ -14,6 +14,7 @@ But you know:
 
 MY MAIN GOAL IS TO PUT ORDER IN MY METHODOLOGY BUT YOU'RE WELCOME IF YOU WANT TO CONTRIBUTE  
 
+Basically, the testing guide is here: https://github.com/astar-security/OCNSP/wiki  
 Below you will find the Readme of the cheat part:
 
 ## Cheat
