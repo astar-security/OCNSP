@@ -1,15 +1,25 @@
+Open Corporate Network Securty Project (OCNSP)
+----------------------------------------------
+OCNSP exists because my current wiki for quickly retrieve my pentest tools usages and procedures began to look like _"the evil internal network pwning cookbook"_.  
 OCNSP try to be for corporate/private networks what OWASP is for Web Application.  
 
 The project has two parts:
 * The wiki for the testing guide
 * A fork of cheat for quick reminder of the pentest usefull tools
 
-Cheat
------
+Other projects are similar and better: https://www.owasp.org/index.php/Penetration_testing_methodologies  
+
+But you know:  
+![](https://imgs.xkcd.com/comics/standards.png)
+
+MY MAIN GOAL IS TO PUT ORDER IN MY METHODOLOGY BUT YOU'RE WELCOME IF YOU WANT TO CONTRIBUTE  
+
+Below you will find the Readme of the cheat part:
+
+## Cheat
 To see what cheatsheets are available, run `cheat -l`.
 
-Modifying Cheatsheets
----------------------
+## Modifying Cheatsheets
 The value of `cheat` is that it allows you to create your own cheatsheets - the
 defaults are meant to serve only as a starting point, and can and should be
 modified.
@@ -32,8 +42,7 @@ After you've customized your cheatsheets, I urge you to track `~/.cheat/` along
 with your [dotfiles][].
 
 
-Configuring
------------
+## Configuring
 
 ### Setting a DEFAULT_CHEAT_DIR ###
 Personal cheatsheets are saved in the `~/.cheat` directory by default, but you
@@ -87,8 +96,7 @@ If no syntax highlighter is specified, the `bash` highlighter will be used by
 default.
 
 
-See Also:
----------
+## See Also:
 - [Enabling Command-line Autocompletion][autocompletion]
 - [Related Projects][related-projects]
 
