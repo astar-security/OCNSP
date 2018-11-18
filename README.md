@@ -5,7 +5,7 @@ OCNSP tries to be for corporate/private networks what OWASP is for Web Applicati
 
 The project has two parts:
 * The wiki for the testing guide
-* A fork of cheat for quick reminder of the pentest usefull tools
+* A fork of cheat for quick reminder of the pentest useful tools
 
 Other projects are similar and better: https://www.owasp.org/index.php/Penetration_testing_methodologies  
 
