@@ -13,8 +13,8 @@ apt upgrade
 # To download and install the updates AND install new necessary packages:
 apt dist-upgrade
 
-# Full command:
-apt update && apt dist-upgrade
+# To install through Proxy (use ASCII encoding for special characters)
+export http_proxy=http://dsoria:MyP%40ssword@192.168.0.10:8080
 
 # To install a new package(s):
 apt install package(s)
