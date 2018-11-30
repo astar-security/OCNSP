@@ -28,3 +28,6 @@ pip list --outdated --format=freeze | cut -d = -f 1 | xargs -n1 pip install -U
 
 # Install specific version of a package
 pip install -I SomePackage1==1.1.0 'SomePackage2>=1.0.4'
+
+# Install with proxy
+pip install <PACKAGE> --proxy http://user:P%40ssword@192.168.0.10:8080
