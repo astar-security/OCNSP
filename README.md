@@ -21,5 +21,5 @@ Below you will find how to use the basic cheatsheets I forked from : https://git
 To install cheat, open the cheat.sh, change the cheat path, and put cheat on your /usr/bin (yeah I know quite disgusting).  
 To see what cheatsheets are available, run `cheat -l`.  
 To update the cheatsheets run `cheat -u`
-To see the cheatsheet of the ls command, run `cheat run `cheat ls`  
+To see the cheatsheet of the ls command, run `cheat ls`  
 
