@@ -4,7 +4,7 @@ OCNSP exists because my current wiki for quickly retrieve my pentest tools usage
 OCNSP tries to be for corporate/private networks what OWASP is for Web Application.  
 
 The project has two parts:
-* The wiki for the testing guide
+* The wiki for the testing guide: https://github.com/astar-security/OCNSP/wiki
 * A fork of cheat for quick reminder of the pentest useful tools
 
 Other projects are similar and better: https://www.owasp.org/index.php/Penetration_testing_methodologies  
