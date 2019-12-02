@@ -1,4 +1,4 @@
-Open Corporate Network Securty Project (OCNSP)
+Open Corporate Network Security Project (OCNSP)
 ----------------------------------------------
 OCNSP exists because my current wiki for quickly retrieve my pentest tools usages and procedures began to look like _"the evil internal network pwning cookbook"_.  
 OCNSP tries to be for corporate/private networks what OWASP is for Web Application.  
